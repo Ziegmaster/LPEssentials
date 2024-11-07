@@ -2,14 +2,14 @@
 <Plugin>
  <Information>
   <Name>LPEssentials</Name>
-  <Author>Ziegmaster and Jeyolin</Author>
-  <Version>1.4.2</Version>
+  <Author>Ziegmaster</Author>
+  <Version>1.4.3</Version>
   <Description>
 This tool makes the process of farming LOTRO Points much more comfortable.
-It is highly recommended to use DX11 due to the increased maximum character render distance needed to track deed progress.
+It is highly recommended to use DX11 to track deed progress at longer distances.
   </Description>
-  <Image>ZiegmaPlugs/LPEssentials/Resources/Icon.tga</Image>
+  <Image>Ziegmaster/LPEssentials/Resources/Icon.tga</Image>
  </Information>
- <Package>ZiegmaPlugs.LPEssentials.Main</Package>
+ <Package>Ziegmaster.LPEssentials.Main</Package>
  <Configuration Apartment="LPEssentials" />
 </Plugin>

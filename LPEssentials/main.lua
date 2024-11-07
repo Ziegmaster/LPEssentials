@@ -1,4 +1,4 @@
-import ("ZiegmaPlugs.Framework");
+import ("Ziegmaster.Framework");
 
 import (Framework.Path.Settings);
 

@@ -1,3 +1,3 @@
-import ("ZiegmaPlugs.Framework");
+import ("Ziegmaster.Framework");
 
 Framework.Utils.PluginReload("LPEssentials");

@@ -10,7 +10,7 @@ Framework.Const = {};
 Framework.Const.SCREEN_WIDTH = Turbine.UI.Display.GetWidth();
 Framework.Const.SCREEN_HEIGHT = Turbine.UI.Display.GetHeight();
 
-Framework.Vendor = "ZiegmaPlugs";
+Framework.Vendor = "Ziegmaster";
 Framework.SelfPath = Framework.Vendor .. ".Framework";
 
 import (Framework.SelfPath .. ".Path");
